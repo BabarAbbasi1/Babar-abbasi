@@ -1,0 +1,51 @@
+c:\users\babar abbasi\documents\visual studio 2012\Projects\Inventory_management_System\Inventory_management_System\bin\Debug\Inventory_management_System.exe.config
+c:\users\babar abbasi\documents\visual studio 2012\Projects\Inventory_management_System\Inventory_management_System\bin\Debug\Inventory_management_System.exe
+c:\users\babar abbasi\documents\visual studio 2012\Projects\Inventory_management_System\Inventory_management_System\bin\Debug\Inventory_management_System.pdb
+c:\users\babar abbasi\documents\visual studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.Login.resources
+c:\users\babar abbasi\documents\visual studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.Properties.Resources.resources
+c:\users\babar abbasi\documents\visual studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.csproj.GenerateResource.Cache
+c:\users\babar abbasi\documents\visual studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.exe
+c:\users\babar abbasi\documents\visual studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.pdb
+c:\users\babar abbasi\documents\visual studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.my_connection.resources
+c:\users\babar abbasi\documents\visual studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.create_Account.resources
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.customer_entry.resources
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.main_window.resources
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.status__approve.resources
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.product_order.resources
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.Order.resources
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.csprojResolveAssemblyReference.cache
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.products.resources
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.ADD_Vender.resources
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.Product.resources
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.customer_search.resources
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.po_approvence.resources
+C:\Users\Babar Abbasi\Documents\Visual Studio 2012\Projects\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.GRN.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\bin\Debug\Inventory_management_System.exe.config
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\bin\Debug\Inventory_management_System.exe
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\bin\Debug\Inventory_management_System.pdb
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.ADD_Vender.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.create_Account.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.customer_search.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.customer_entry.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.GRN.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.Login.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.main_window.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.my_connection.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.Order.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.po_approvence.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.Product.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.products.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.product_order.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.Properties.Resources.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.status__approve.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.csproj.GenerateResource.Cache
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.exe
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.pdb
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.invoice.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.myconnection.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.Sale_order.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.csprojResolveAssemblyReference.cache
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.sale_approvence.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.sales_challan.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.MYCONN.resources
+C:\Users\Babar Abbasi\Desktop\Inventory_management_System\Inventory_management_System\obj\Debug\Inventory_management_System.sale_Invoice.resources
